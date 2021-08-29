@@ -1,2 +1,6 @@
-# arcod-iso
-My modified ArcoLinuxD ISO
+# arcolinuxd-iso
+
+With this github you can build your own ArcoLinuxD version.
+
+# stable
+########
